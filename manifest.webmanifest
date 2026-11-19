@@ -1,0 +1,15 @@
+{
+  "name": "Ọrọ̀",
+  "short_name": "Ọrọ̀",
+  "start_url": "./?launch=1",
+  "display": "browser",
+  "background_color": "#0054F4",
+  "theme_color": "#0054F4",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
